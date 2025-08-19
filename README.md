@@ -27,5 +27,36 @@ Ideal para interações casuais em transportes, eventos ou locais públicos.
 
 ---
 
-## 📂 Estrutura do Projeto (proposta)
+## 📅 Roadmap
 
+- [x] Modelagem inicial  
+- [ ] Configuração do backend  
+- [ ] Desenvolvimento do app mobile (MVP)  
+- [ ] Integração de geolocalização  
+- [ ] Testes beta com usuários reais  
+- [ ] Publicação em App Store & Google Play  
+
+---
+
+## 👥 Contribuição
+
+1. Faça um fork do repositório  
+2. Crie sua branch: `git checkout -b feature/nova-funcionalidade`  
+3. Commit suas mudanças: `git commit -m 'Adiciona nova funcionalidade'`  
+4. Envie para a branch principal: `git push origin feature/nova-funcionalidade`  
+5. Abra um Pull Request 🚀  
+
+---
+
+## 📜 Licença
+
+Este projeto está sob a licença **MIT**.  
+Sinta-se livre para usar, modificar e contribuir.  
+
+---
+
+## 📧 Contato
+
+Criador: [Márcio Ferreira]  
+📩 Email: marcioh2207@gmail.com  
+🌐 LinkedIn/GitHub: [https://www.linkedin.com/in/marcio-ferreira01/]
